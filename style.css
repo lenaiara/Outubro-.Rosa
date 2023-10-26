@@ -13,3 +13,9 @@ color:aliceblue;
 text-align:center;
 padding: 25px 0;
 }
+nav ul{
+list-style:nome;
+text-align:center;
+background-color: rgb(223, 76, 101);
+padding:15px0;
+}
